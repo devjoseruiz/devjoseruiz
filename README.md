@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm @devjoseruiz</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<!--START_SECTION:wordcloud-->
-<!--END_SECTION:wordcloud-->
-
----
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=devjoseruiz&label=Profile%20views&color=0e75b6&style=flat" alt="devjoseruiz" />
     <img src="https://svgshare.com/i/Zhy.svg" alt="linux" />
