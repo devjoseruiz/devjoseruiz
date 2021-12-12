@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme:
     name: Update Readme with WordCloud
-    runs-on: ubuntu-focal
+    runs-on: ubuntu-20.04
     steps:
       - uses: Parply/profile-wordcloud@master
         with:
