@@ -13,7 +13,7 @@ jobs:
       - uses: Parply/profile-wordcloud@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          IGNORE_REPOS: "config-files,config-files-old,.github"
-          IGNORE_FILE_TYPES: ".pickle,.csv,.png,.tgz,.gz,.zip,.html,.snl,.yml,.RData,.pyptoj,.vue,.gif,__pycache__,.mod,.pdf,.Rdata,.obj,.o,.so,.mp4,.in,.mtx"
+          IGNORE_REPOS: "autodoortimed,autodoorparking,autodoor,autowaterextractor,autocrane,autoenginedualpush,autoenginedualswitch,autostartriangle,autostardeltainverter,autoelevator,autocutter,autoenginetimed,autoenginenostop,autoenginestop,autocascadestart,autoenginestart"
+          IGNORE_FILE_TYPES: ".pickle,.csv,.png,.jpg,.ico,.env,.tgz,.gz,.zip,.html,.snl,.yml,.RData,.pyptoj,.vue,.gif,__pycache__,.mod,.pdf,.Rdata,.obj,.o,.so,.mp4,.in,.mtx"
           WIDTH: "100%"
           CMAP: "hsv"
