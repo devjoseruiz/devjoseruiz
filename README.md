@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm @devjoseruiz</h1>
+<h1 align="center">Hi 👋, I'm José Ruiz</h1>
 <h3 align="center">A passionate fullstack developer</h3>
+
+<img align="center" src="https://raw.githubusercontent.com/devjoseruiz/devjoseruiz/master/images/wordcloud.png" alt="wordcloud header" />
+
+---
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=devjoseruiz&label=Profile%20views&color=0e75b6&style=flat" alt="devjoseruiz" />
@@ -31,6 +35,7 @@
 <h2 align="left">My stats:</h2>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjoseruiz&show_icons=true&locale=en&layout=compact" alt="devjoseruiz" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjoseruiz&show_icons=true&locale=en" alt="devjoseruiz" />
+<img align="center" src="https://raw.githubusercontent.com/devjoseruiz/devjoseruiz/master/images/wakatime_weekly_language_stats.svg" alt="devjoseruiz wakatime stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjoseruiz&show_icons=true&locale=en&layout=compact" alt="devjoseruiz github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjoseruiz&show_icons=true&locale=en" alt="devjoseruiz github stats" />
 </p>
