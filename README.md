@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Unity and Java**
 
-- 📝 I regularly write articles on [blog.joseruiz.space](https://blog.joseruiz.space)
+- 📝 I regularly write articles on [joseruiz.space](https://joseruiz.space)
 
 - 📫 How to reach me **joseruiz@keemail.me**
 
