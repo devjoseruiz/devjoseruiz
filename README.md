@@ -36,6 +36,8 @@
 
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/devjoseruiz/devjoseruiz/master/images/wakatime_weekly_language_stats.svg" alt="devjoseruiz wakatime stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjoseruiz&show_icons=true&locale=en&layout=compact" alt="devjoseruiz github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjoseruiz&show_icons=true&locale=en" alt="devjoseruiz github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjoseruiz&show_icons=true&locale=en&layout=compact&langs_count=8" alt="devjoseruiz github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjoseruiz&show_icons=true&locale=en&count_private=true" alt="devjoseruiz github stats" />
 </p>
