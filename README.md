@@ -11,6 +11,8 @@
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="open source" />
 </p>
 
+<p align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="developer quotes"></p>
+
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/joseruizwriter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseruizwriter" height="30" width="40" /></a>
@@ -41,3 +43,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devjoseruiz&show_icons=true&locale=en&count_private=true" alt="devjoseruiz github stats" />
 </p>
+
