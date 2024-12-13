@@ -53,7 +53,6 @@
 
 ###
 
-- 🔭 I’m currently working on [Trumpet MVC Framework](https://github.com/devjoseruiz/trumpet-mvc-framework).
 - 👯 I'm looking to collaborate on open source projects using cutting-edge technologies and best practices.
 - 📚 I'm currently learning [Rust](https://www.rust-lang.org/).
 - 📝 I regularly write articles on [Medium](https://medium.com/@devjoseruiz).
